@@ -1,1 +1,1 @@
-# botwars2026
+# BotWars - Nexora
